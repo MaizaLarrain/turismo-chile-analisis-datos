@@ -1,0 +1,17 @@
+region_id,nombre,macrozona
+1,Arica y Parinacota,Norte
+2,Tarapacá,Norte
+3,Antofagasta,Norte
+4,Atacama,Norte
+5,Coquimbo,Norte
+6,Valparaíso,Centro
+7,Metropolitana,Centro
+8,O'Higgins,Centro
+9,Maule,Centro
+10,Ñuble,Centro
+11,Biobío,Sur
+12,La Araucanía,Sur
+13,Los Ríos,Sur
+14,Los Lagos,Sur
+15,Aysén,Austral
+16,Magallanes,Austral
