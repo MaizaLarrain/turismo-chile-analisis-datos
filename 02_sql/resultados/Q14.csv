@@ -1,0 +1,10 @@
+tipo_paso,posicion,nacion,llegadas
+Aeropuertos,1,BRASIL,589844
+Aeropuertos,2,ARGENTINA,426079
+Aeropuertos,3,EEUU,218512
+Frontera Argentina,1,ARGENTINA,2419574
+Frontera Argentina,2,BRASIL,83687
+Frontera Argentina,3,CHILE,65908
+Frontera Norte,1,BOLIVIA,531526
+Frontera Norte,2,PERU,147135
+Frontera Norte,3,ARGENTINA,10788
