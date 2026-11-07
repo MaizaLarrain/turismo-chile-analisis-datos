@@ -1,0 +1,661 @@
+fecha,anio,mes,serie,grupo,llegadas
+2022-01-01,2022,1,Argentina,Argentina,22622
+2022-01-01,2022,1,Brasil,Resto de América,4839
+2022-01-01,2022,1,Bolivia,Países vecinos,630
+2022-01-01,2022,1,Perú,Países vecinos,5121
+2022-01-01,2022,1,Estados Unidos,Resto de América,6933
+2022-01-01,2022,1,Chilenos residentes en el exterior,Chilenos residentes,7028
+2022-01-01,2022,1,Colombia,Resto de América,5849
+2022-01-01,2022,1,España,Europa,1923
+2022-01-01,2022,1,Alemania,Europa,1715
+2022-01-01,2022,1,Francia,Europa,1435
+2022-01-01,2022,1,Inglaterra,Europa,881
+2022-01-01,2022,1,Resto del mundo,Resto del mundo,10759
+2022-02-01,2022,2,Argentina,Argentina,21315
+2022-02-01,2022,2,Brasil,Resto de América,4164
+2022-02-01,2022,2,Bolivia,Países vecinos,789
+2022-02-01,2022,2,Perú,Países vecinos,4780
+2022-02-01,2022,2,Estados Unidos,Resto de América,6572
+2022-02-01,2022,2,Chilenos residentes en el exterior,Chilenos residentes,8784
+2022-02-01,2022,2,Colombia,Resto de América,6657
+2022-02-01,2022,2,España,Europa,1923
+2022-02-01,2022,2,Alemania,Europa,1908
+2022-02-01,2022,2,Francia,Europa,2116
+2022-02-01,2022,2,Inglaterra,Europa,1086
+2022-02-01,2022,2,Resto del mundo,Resto del mundo,10181
+2022-03-01,2022,3,Argentina,Argentina,17726
+2022-03-01,2022,3,Brasil,Resto de América,7373
+2022-03-01,2022,3,Bolivia,Países vecinos,1107
+2022-03-01,2022,3,Perú,Países vecinos,8067
+2022-03-01,2022,3,Estados Unidos,Resto de América,8348
+2022-03-01,2022,3,Chilenos residentes en el exterior,Chilenos residentes,8175
+2022-03-01,2022,3,Colombia,Resto de América,9245
+2022-03-01,2022,3,España,Europa,2613
+2022-03-01,2022,3,Alemania,Europa,1844
+2022-03-01,2022,3,Francia,Europa,1922
+2022-03-01,2022,3,Inglaterra,Europa,1303
+2022-03-01,2022,3,Resto del mundo,Resto del mundo,13507
+2022-04-01,2022,4,Argentina,Argentina,24514
+2022-04-01,2022,4,Brasil,Resto de América,11664
+2022-04-01,2022,4,Bolivia,Países vecinos,1191
+2022-04-01,2022,4,Perú,Países vecinos,10354
+2022-04-01,2022,4,Estados Unidos,Resto de América,6737
+2022-04-01,2022,4,Chilenos residentes en el exterior,Chilenos residentes,7049
+2022-04-01,2022,4,Colombia,Resto de América,10597
+2022-04-01,2022,4,España,Europa,2820
+2022-04-01,2022,4,Alemania,Europa,1375
+2022-04-01,2022,4,Francia,Europa,1891
+2022-04-01,2022,4,Inglaterra,Europa,1116
+2022-04-01,2022,4,Resto del mundo,Resto del mundo,16423
+2022-05-01,2022,5,Argentina,Argentina,37194
+2022-05-01,2022,5,Brasil,Resto de América,14190
+2022-05-01,2022,5,Bolivia,Países vecinos,11289
+2022-05-01,2022,5,Perú,Países vecinos,13560
+2022-05-01,2022,5,Estados Unidos,Resto de América,5728
+2022-05-01,2022,5,Chilenos residentes en el exterior,Chilenos residentes,10823
+2022-05-01,2022,5,Colombia,Resto de América,9180
+2022-05-01,2022,5,España,Europa,2392
+2022-05-01,2022,5,Alemania,Europa,1094
+2022-05-01,2022,5,Francia,Europa,1611
+2022-05-01,2022,5,Inglaterra,Europa,1062
+2022-05-01,2022,5,Resto del mundo,Resto del mundo,15212
+2022-06-01,2022,6,Argentina,Argentina,35503
+2022-06-01,2022,6,Brasil,Resto de América,21538
+2022-06-01,2022,6,Bolivia,Países vecinos,12779
+2022-06-01,2022,6,Perú,Países vecinos,13237
+2022-06-01,2022,6,Estados Unidos,Resto de América,6044
+2022-06-01,2022,6,Chilenos residentes en el exterior,Chilenos residentes,9888
+2022-06-01,2022,6,Colombia,Resto de América,9755
+2022-06-01,2022,6,España,Europa,2019
+2022-06-01,2022,6,Alemania,Europa,931
+2022-06-01,2022,6,Francia,Europa,1118
+2022-06-01,2022,6,Inglaterra,Europa,768
+2022-06-01,2022,6,Resto del mundo,Resto del mundo,13538
+2022-07-01,2022,7,Argentina,Argentina,41779
+2022-07-01,2022,7,Brasil,Resto de América,38132
+2022-07-01,2022,7,Bolivia,Países vecinos,19187
+2022-07-01,2022,7,Perú,Países vecinos,17258
+2022-07-01,2022,7,Estados Unidos,Resto de América,7415
+2022-07-01,2022,7,Chilenos residentes en el exterior,Chilenos residentes,11623
+2022-07-01,2022,7,Colombia,Resto de América,9444
+2022-07-01,2022,7,España,Europa,2801
+2022-07-01,2022,7,Alemania,Europa,1299
+2022-07-01,2022,7,Francia,Europa,2008
+2022-07-01,2022,7,Inglaterra,Europa,1091
+2022-07-01,2022,7,Resto del mundo,Resto del mundo,17605
+2022-08-01,2022,8,Argentina,Argentina,45073
+2022-08-01,2022,8,Brasil,Resto de América,34585
+2022-08-01,2022,8,Bolivia,Países vecinos,16421
+2022-08-01,2022,8,Perú,Países vecinos,19193
+2022-08-01,2022,8,Estados Unidos,Resto de América,8501
+2022-08-01,2022,8,Chilenos residentes en el exterior,Chilenos residentes,11471
+2022-08-01,2022,8,Colombia,Resto de América,9280
+2022-08-01,2022,8,España,Europa,3163
+2022-08-01,2022,8,Alemania,Europa,1654
+2022-08-01,2022,8,Francia,Europa,2221
+2022-08-01,2022,8,Inglaterra,Europa,1438
+2022-08-01,2022,8,Resto del mundo,Resto del mundo,21068
+2022-09-01,2022,9,Argentina,Argentina,73304
+2022-09-01,2022,9,Brasil,Resto de América,29806
+2022-09-01,2022,9,Bolivia,Países vecinos,16152
+2022-09-01,2022,9,Perú,Países vecinos,18712
+2022-09-01,2022,9,Estados Unidos,Resto de América,8942
+2022-09-01,2022,9,Chilenos residentes en el exterior,Chilenos residentes,13565
+2022-09-01,2022,9,Colombia,Resto de América,9920
+2022-09-01,2022,9,España,Europa,3225
+2022-09-01,2022,9,Alemania,Europa,2082
+2022-09-01,2022,9,Francia,Europa,2079
+2022-09-01,2022,9,Inglaterra,Europa,1939
+2022-09-01,2022,9,Resto del mundo,Resto del mundo,23793
+2022-10-01,2022,10,Argentina,Argentina,98210
+2022-10-01,2022,10,Brasil,Resto de América,25790
+2022-10-01,2022,10,Bolivia,Países vecinos,17039
+2022-10-01,2022,10,Perú,Países vecinos,22462
+2022-10-01,2022,10,Estados Unidos,Resto de América,13514
+2022-10-01,2022,10,Chilenos residentes en el exterior,Chilenos residentes,15103
+2022-10-01,2022,10,Colombia,Resto de América,12049
+2022-10-01,2022,10,España,Europa,4658
+2022-10-01,2022,10,Alemania,Europa,4249
+2022-10-01,2022,10,Francia,Europa,4262
+2022-10-01,2022,10,Inglaterra,Europa,3388
+2022-10-01,2022,10,Resto del mundo,Resto del mundo,34104
+2022-11-01,2022,11,Argentina,Argentina,93815
+2022-11-01,2022,11,Brasil,Resto de América,25259
+2022-11-01,2022,11,Bolivia,Países vecinos,17865
+2022-11-01,2022,11,Perú,Países vecinos,22859
+2022-11-01,2022,11,Estados Unidos,Resto de América,22934
+2022-11-01,2022,11,Chilenos residentes en el exterior,Chilenos residentes,16302
+2022-11-01,2022,11,Colombia,Resto de América,12773
+2022-11-01,2022,11,España,Europa,7339
+2022-11-01,2022,11,Alemania,Europa,6749
+2022-11-01,2022,11,Francia,Europa,6612
+2022-11-01,2022,11,Inglaterra,Europa,5080
+2022-11-01,2022,11,Resto del mundo,Resto del mundo,46463
+2022-12-01,2022,12,Argentina,Argentina,141042
+2022-12-01,2022,12,Brasil,Resto de América,29850
+2022-12-01,2022,12,Bolivia,Países vecinos,31227
+2022-12-01,2022,12,Perú,Países vecinos,27417
+2022-12-01,2022,12,Estados Unidos,Resto de América,33753
+2022-12-01,2022,12,Chilenos residentes en el exterior,Chilenos residentes,16269
+2022-12-01,2022,12,Colombia,Resto de América,20165
+2022-12-01,2022,12,España,Europa,6956
+2022-12-01,2022,12,Alemania,Europa,7317
+2022-12-01,2022,12,Francia,Europa,6801
+2022-12-01,2022,12,Inglaterra,Europa,4665
+2022-12-01,2022,12,Resto del mundo,Resto del mundo,51486
+2023-01-01,2023,1,Argentina,Argentina,239268
+2023-01-01,2023,1,Brasil,Resto de América,33288
+2023-01-01,2023,1,Bolivia,Países vecinos,33896
+2023-01-01,2023,1,Perú,Países vecinos,22845
+2023-01-01,2023,1,Estados Unidos,Resto de América,29785
+2023-01-01,2023,1,Chilenos residentes en el exterior,Chilenos residentes,20704
+2023-01-01,2023,1,Colombia,Resto de América,12739
+2023-01-01,2023,1,España,Europa,6213
+2023-01-01,2023,1,Alemania,Europa,8518
+2023-01-01,2023,1,Francia,Europa,7562
+2023-01-01,2023,1,Inglaterra,Europa,5674
+2023-01-01,2023,1,Resto del mundo,Resto del mundo,57020
+2023-02-01,2023,2,Argentina,Argentina,155694
+2023-02-01,2023,2,Brasil,Resto de América,18746
+2023-02-01,2023,2,Bolivia,Países vecinos,21187
+2023-02-01,2023,2,Perú,Países vecinos,21354
+2023-02-01,2023,2,Estados Unidos,Resto de América,25885
+2023-02-01,2023,2,Chilenos residentes en el exterior,Chilenos residentes,30678
+2023-02-01,2023,2,Colombia,Resto de América,8791
+2023-02-01,2023,2,España,Europa,5224
+2023-02-01,2023,2,Alemania,Europa,7378
+2023-02-01,2023,2,Francia,Europa,7378
+2023-02-01,2023,2,Inglaterra,Europa,5226
+2023-02-01,2023,2,Resto del mundo,Resto del mundo,44261
+2023-03-01,2023,3,Argentina,Argentina,102093
+2023-03-01,2023,3,Brasil,Resto de América,22195
+2023-03-01,2023,3,Bolivia,Países vecinos,23000
+2023-03-01,2023,3,Perú,Países vecinos,28275
+2023-03-01,2023,3,Estados Unidos,Resto de América,26959
+2023-03-01,2023,3,Chilenos residentes en el exterior,Chilenos residentes,20306
+2023-03-01,2023,3,Colombia,Resto de América,11613
+2023-03-01,2023,3,España,Europa,6343
+2023-03-01,2023,3,Alemania,Europa,7023
+2023-03-01,2023,3,Francia,Europa,7179
+2023-03-01,2023,3,Inglaterra,Europa,5656
+2023-03-01,2023,3,Resto del mundo,Resto del mundo,47064
+2023-04-01,2023,4,Argentina,Argentina,95876
+2023-04-01,2023,4,Brasil,Resto de América,27213
+2023-04-01,2023,4,Bolivia,Países vecinos,20983
+2023-04-01,2023,4,Perú,Países vecinos,26584
+2023-04-01,2023,4,Estados Unidos,Resto de América,13817
+2023-04-01,2023,4,Chilenos residentes en el exterior,Chilenos residentes,19558
+2023-04-01,2023,4,Colombia,Resto de América,11233
+2023-04-01,2023,4,España,Europa,4275
+2023-04-01,2023,4,Alemania,Europa,3665
+2023-04-01,2023,4,Francia,Europa,4705
+2023-04-01,2023,4,Inglaterra,Europa,3336
+2023-04-01,2023,4,Resto del mundo,Resto del mundo,37402
+2023-05-01,2023,5,Argentina,Argentina,74873
+2023-05-01,2023,5,Brasil,Resto de América,26047
+2023-05-01,2023,5,Bolivia,Países vecinos,21947
+2023-05-01,2023,5,Perú,Países vecinos,23822
+2023-05-01,2023,5,Estados Unidos,Resto de América,10057
+2023-05-01,2023,5,Chilenos residentes en el exterior,Chilenos residentes,23108
+2023-05-01,2023,5,Colombia,Resto de América,9467
+2023-05-01,2023,5,España,Europa,3104
+2023-05-01,2023,5,Alemania,Europa,2070
+2023-05-01,2023,5,Francia,Europa,3206
+2023-05-01,2023,5,Inglaterra,Europa,1920
+2023-05-01,2023,5,Resto del mundo,Resto del mundo,24822
+2023-06-01,2023,6,Argentina,Argentina,49798
+2023-06-01,2023,6,Brasil,Resto de América,41956
+2023-06-01,2023,6,Bolivia,Países vecinos,24163
+2023-06-01,2023,6,Perú,Países vecinos,21177
+2023-06-01,2023,6,Estados Unidos,Resto de América,10057
+2023-06-01,2023,6,Chilenos residentes en el exterior,Chilenos residentes,16835
+2023-06-01,2023,6,Colombia,Resto de América,10577
+2023-06-01,2023,6,España,Europa,2933
+2023-06-01,2023,6,Alemania,Europa,1369
+2023-06-01,2023,6,Francia,Europa,2007
+2023-06-01,2023,6,Inglaterra,Europa,1389
+2023-06-01,2023,6,Resto del mundo,Resto del mundo,20459
+2023-07-01,2023,7,Argentina,Argentina,58865
+2023-07-01,2023,7,Brasil,Resto de América,71388
+2023-07-01,2023,7,Bolivia,Países vecinos,32164
+2023-07-01,2023,7,Perú,Países vecinos,26987
+2023-07-01,2023,7,Estados Unidos,Resto de América,11358
+2023-07-01,2023,7,Chilenos residentes en el exterior,Chilenos residentes,20537
+2023-07-01,2023,7,Colombia,Resto de América,10252
+2023-07-01,2023,7,España,Europa,3329
+2023-07-01,2023,7,Alemania,Europa,1820
+2023-07-01,2023,7,Francia,Europa,2923
+2023-07-01,2023,7,Inglaterra,Europa,1766
+2023-07-01,2023,7,Resto del mundo,Resto del mundo,26439
+2023-08-01,2023,8,Argentina,Argentina,51583
+2023-08-01,2023,8,Brasil,Resto de América,66212
+2023-08-01,2023,8,Bolivia,Países vecinos,27966
+2023-08-01,2023,8,Perú,Países vecinos,28376
+2023-08-01,2023,8,Estados Unidos,Resto de América,12318
+2023-08-01,2023,8,Chilenos residentes en el exterior,Chilenos residentes,17170
+2023-08-01,2023,8,Colombia,Resto de América,11698
+2023-08-01,2023,8,España,Europa,4087
+2023-08-01,2023,8,Alemania,Europa,1837
+2023-08-01,2023,8,Francia,Europa,2984
+2023-08-01,2023,8,Inglaterra,Europa,1959
+2023-08-01,2023,8,Resto del mundo,Resto del mundo,29868
+2023-09-01,2023,9,Argentina,Argentina,63106
+2023-09-01,2023,9,Brasil,Resto de América,49915
+2023-09-01,2023,9,Bolivia,Países vecinos,29648
+2023-09-01,2023,9,Perú,Países vecinos,24965
+2023-09-01,2023,9,Estados Unidos,Resto de América,11978
+2023-09-01,2023,9,Chilenos residentes en el exterior,Chilenos residentes,20742
+2023-09-01,2023,9,Colombia,Resto de América,10798
+2023-09-01,2023,9,España,Europa,3947
+2023-09-01,2023,9,Alemania,Europa,2757
+2023-09-01,2023,9,Francia,Europa,2885
+2023-09-01,2023,9,Inglaterra,Europa,2371
+2023-09-01,2023,9,Resto del mundo,Resto del mundo,32620
+2023-10-01,2023,10,Argentina,Argentina,93412
+2023-10-01,2023,10,Brasil,Resto de América,42310
+2023-10-01,2023,10,Bolivia,Países vecinos,33186
+2023-10-01,2023,10,Perú,Países vecinos,31118
+2023-10-01,2023,10,Estados Unidos,Resto de América,20742
+2023-10-01,2023,10,Chilenos residentes en el exterior,Chilenos residentes,24923
+2023-10-01,2023,10,Colombia,Resto de América,13339
+2023-10-01,2023,10,España,Europa,5907
+2023-10-01,2023,10,Alemania,Europa,5325
+2023-10-01,2023,10,Francia,Europa,5560
+2023-10-01,2023,10,Inglaterra,Europa,4167
+2023-10-01,2023,10,Resto del mundo,Resto del mundo,50684
+2023-11-01,2023,11,Argentina,Argentina,90237
+2023-11-01,2023,11,Brasil,Resto de América,37060
+2023-11-01,2023,11,Bolivia,Países vecinos,33287
+2023-11-01,2023,11,Perú,Países vecinos,27419
+2023-11-01,2023,11,Estados Unidos,Resto de América,27272
+2023-11-01,2023,11,Chilenos residentes en el exterior,Chilenos residentes,23772
+2023-11-01,2023,11,Colombia,Resto de América,13900
+2023-11-01,2023,11,España,Europa,8890
+2023-11-01,2023,11,Alemania,Europa,9256
+2023-11-01,2023,11,Francia,Europa,8009
+2023-11-01,2023,11,Inglaterra,Europa,7006
+2023-11-01,2023,11,Resto del mundo,Resto del mundo,61646
+2023-12-01,2023,12,Argentina,Argentina,130857
+2023-12-01,2023,12,Brasil,Resto de América,49603
+2023-12-01,2023,12,Bolivia,Países vecinos,46149
+2023-12-01,2023,12,Perú,Países vecinos,32830
+2023-12-01,2023,12,Estados Unidos,Resto de América,35956
+2023-12-01,2023,12,Chilenos residentes en el exterior,Chilenos residentes,24398
+2023-12-01,2023,12,Colombia,Resto de América,21962
+2023-12-01,2023,12,España,Europa,8802
+2023-12-01,2023,12,Alemania,Europa,9034
+2023-12-01,2023,12,Francia,Europa,8381
+2023-12-01,2023,12,Inglaterra,Europa,5873
+2023-12-01,2023,12,Resto del mundo,Resto del mundo,65787
+2024-01-01,2024,1,Argentina,Argentina,205678
+2024-01-01,2024,1,Brasil,Resto de América,56688
+2024-01-01,2024,1,Bolivia,Países vecinos,44753
+2024-01-01,2024,1,Perú,Países vecinos,33074
+2024-01-01,2024,1,Estados Unidos,Resto de América,30822
+2024-01-01,2024,1,Chilenos residentes en el exterior,Chilenos residentes,25250
+2024-01-01,2024,1,Colombia,Resto de América,15010
+2024-01-01,2024,1,España,Europa,6878
+2024-01-01,2024,1,Alemania,Europa,9368
+2024-01-01,2024,1,Francia,Europa,7902
+2024-01-01,2024,1,Inglaterra,Europa,6387
+2024-01-01,2024,1,Resto del mundo,Resto del mundo,64421
+2024-02-01,2024,2,Argentina,Argentina,169192
+2024-02-01,2024,2,Brasil,Resto de América,31772
+2024-02-01,2024,2,Bolivia,Países vecinos,31504
+2024-02-01,2024,2,Perú,Países vecinos,26920
+2024-02-01,2024,2,Estados Unidos,Resto de América,28704
+2024-02-01,2024,2,Chilenos residentes en el exterior,Chilenos residentes,36141
+2024-02-01,2024,2,Colombia,Resto de América,10415
+2024-02-01,2024,2,España,Europa,5815
+2024-02-01,2024,2,Alemania,Europa,8971
+2024-02-01,2024,2,Francia,Europa,8186
+2024-02-01,2024,2,Inglaterra,Europa,6454
+2024-02-01,2024,2,Resto del mundo,Resto del mundo,55109
+2024-03-01,2024,3,Argentina,Argentina,185408
+2024-03-01,2024,3,Brasil,Resto de América,40239
+2024-03-01,2024,3,Bolivia,Países vecinos,30378
+2024-03-01,2024,3,Perú,Países vecinos,31547
+2024-03-01,2024,3,Estados Unidos,Resto de América,31239
+2024-03-01,2024,3,Chilenos residentes en el exterior,Chilenos residentes,22024
+2024-03-01,2024,3,Colombia,Resto de América,15844
+2024-03-01,2024,3,España,Europa,8080
+2024-03-01,2024,3,Alemania,Europa,8682
+2024-03-01,2024,3,Francia,Europa,7488
+2024-03-01,2024,3,Inglaterra,Europa,7191
+2024-03-01,2024,3,Resto del mundo,Resto del mundo,63056
+2024-04-01,2024,4,Argentina,Argentina,185848
+2024-04-01,2024,4,Brasil,Resto de América,43145
+2024-04-01,2024,4,Bolivia,Países vecinos,29636
+2024-04-01,2024,4,Perú,Países vecinos,28084
+2024-04-01,2024,4,Estados Unidos,Resto de América,15983
+2024-04-01,2024,4,Chilenos residentes en el exterior,Chilenos residentes,15053
+2024-04-01,2024,4,Colombia,Resto de América,13080
+2024-04-01,2024,4,España,Europa,5142
+2024-04-01,2024,4,Alemania,Europa,3710
+2024-04-01,2024,4,Francia,Europa,5246
+2024-04-01,2024,4,Inglaterra,Europa,4209
+2024-04-01,2024,4,Resto del mundo,Resto del mundo,46479
+2024-05-01,2024,5,Argentina,Argentina,151700
+2024-05-01,2024,5,Brasil,Resto de América,51035
+2024-05-01,2024,5,Bolivia,Países vecinos,28185
+2024-05-01,2024,5,Perú,Países vecinos,25504
+2024-05-01,2024,5,Estados Unidos,Resto de América,10396
+2024-05-01,2024,5,Chilenos residentes en el exterior,Chilenos residentes,15043
+2024-05-01,2024,5,Colombia,Resto de América,9901
+2024-05-01,2024,5,España,Europa,3918
+2024-05-01,2024,5,Alemania,Europa,2311
+2024-05-01,2024,5,Francia,Europa,3352
+2024-05-01,2024,5,Inglaterra,Europa,2442
+2024-05-01,2024,5,Resto del mundo,Resto del mundo,31585
+2024-06-01,2024,6,Argentina,Argentina,81761
+2024-06-01,2024,6,Brasil,Resto de América,73700
+2024-06-01,2024,6,Bolivia,Países vecinos,30852
+2024-06-01,2024,6,Perú,Países vecinos,23644
+2024-06-01,2024,6,Estados Unidos,Resto de América,10258
+2024-06-01,2024,6,Chilenos residentes en el exterior,Chilenos residentes,13784
+2024-06-01,2024,6,Colombia,Resto de América,11545
+2024-06-01,2024,6,España,Europa,3160
+2024-06-01,2024,6,Alemania,Europa,1514
+2024-06-01,2024,6,Francia,Europa,2067
+2024-06-01,2024,6,Inglaterra,Europa,1656
+2024-06-01,2024,6,Resto del mundo,Resto del mundo,27896
+2024-07-01,2024,7,Argentina,Argentina,151222
+2024-07-01,2024,7,Brasil,Resto de América,142782
+2024-07-01,2024,7,Bolivia,Países vecinos,42202
+2024-07-01,2024,7,Perú,Países vecinos,33394
+2024-07-01,2024,7,Estados Unidos,Resto de América,11218
+2024-07-01,2024,7,Chilenos residentes en el exterior,Chilenos residentes,17660
+2024-07-01,2024,7,Colombia,Resto de América,11694
+2024-07-01,2024,7,España,Europa,4311
+2024-07-01,2024,7,Alemania,Europa,2163
+2024-07-01,2024,7,Francia,Europa,3421
+2024-07-01,2024,7,Inglaterra,Europa,2234
+2024-07-01,2024,7,Resto del mundo,Resto del mundo,37966
+2024-08-01,2024,8,Argentina,Argentina,109500
+2024-08-01,2024,8,Brasil,Resto de América,122578
+2024-08-01,2024,8,Bolivia,Países vecinos,38663
+2024-08-01,2024,8,Perú,Países vecinos,32575
+2024-08-01,2024,8,Estados Unidos,Resto de América,13792
+2024-08-01,2024,8,Chilenos residentes en el exterior,Chilenos residentes,15106
+2024-08-01,2024,8,Colombia,Resto de América,12818
+2024-08-01,2024,8,España,Europa,5452
+2024-08-01,2024,8,Alemania,Europa,2262
+2024-08-01,2024,8,Francia,Europa,3517
+2024-08-01,2024,8,Inglaterra,Europa,2528
+2024-08-01,2024,8,Resto del mundo,Resto del mundo,39197
+2024-09-01,2024,9,Argentina,Argentina,139521
+2024-09-01,2024,9,Brasil,Resto de América,68571
+2024-09-01,2024,9,Bolivia,Países vecinos,41611
+2024-09-01,2024,9,Perú,Países vecinos,29537
+2024-09-01,2024,9,Estados Unidos,Resto de América,13364
+2024-09-01,2024,9,Chilenos residentes en el exterior,Chilenos residentes,20241
+2024-09-01,2024,9,Colombia,Resto de América,11726
+2024-09-01,2024,9,España,Europa,5042
+2024-09-01,2024,9,Alemania,Europa,2739
+2024-09-01,2024,9,Francia,Europa,3070
+2024-09-01,2024,9,Inglaterra,Europa,2736
+2024-09-01,2024,9,Resto del mundo,Resto del mundo,43544
+2024-10-01,2024,10,Argentina,Argentina,195041
+2024-10-01,2024,10,Brasil,Resto de América,52962
+2024-10-01,2024,10,Bolivia,Países vecinos,41670
+2024-10-01,2024,10,Perú,Países vecinos,34569
+2024-10-01,2024,10,Estados Unidos,Resto de América,19011
+2024-10-01,2024,10,Chilenos residentes en el exterior,Chilenos residentes,18320
+2024-10-01,2024,10,Colombia,Resto de América,15591
+2024-10-01,2024,10,España,Europa,6995
+2024-10-01,2024,10,Alemania,Europa,5502
+2024-10-01,2024,10,Francia,Europa,6219
+2024-10-01,2024,10,Inglaterra,Europa,4892
+2024-10-01,2024,10,Resto del mundo,Resto del mundo,55797
+2024-11-01,2024,11,Argentina,Argentina,208309
+2024-11-01,2024,11,Brasil,Resto de América,46201
+2024-11-01,2024,11,Bolivia,Países vecinos,50281
+2024-11-01,2024,11,Perú,Países vecinos,30769
+2024-11-01,2024,11,Estados Unidos,Resto de América,27827
+2024-11-01,2024,11,Chilenos residentes en el exterior,Chilenos residentes,20340
+2024-11-01,2024,11,Colombia,Resto de América,14865
+2024-11-01,2024,11,España,Europa,10317
+2024-11-01,2024,11,Alemania,Europa,9908
+2024-11-01,2024,11,Francia,Europa,8332
+2024-11-01,2024,11,Inglaterra,Europa,7392
+2024-11-01,2024,11,Resto del mundo,Resto del mundo,71009
+2024-12-01,2024,12,Argentina,Argentina,305209
+2024-12-01,2024,12,Brasil,Resto de América,57363
+2024-12-01,2024,12,Bolivia,Países vecinos,58946
+2024-12-01,2024,12,Perú,Países vecinos,35810
+2024-12-01,2024,12,Estados Unidos,Resto de América,38956
+2024-12-01,2024,12,Chilenos residentes en el exterior,Chilenos residentes,19603
+2024-12-01,2024,12,Colombia,Resto de América,21193
+2024-12-01,2024,12,España,Europa,9942
+2024-12-01,2024,12,Alemania,Europa,9469
+2024-12-01,2024,12,Francia,Europa,8100
+2024-12-01,2024,12,Inglaterra,Europa,5821
+2024-12-01,2024,12,Resto del mundo,Resto del mundo,77331
+2025-01-01,2025,1,Argentina,Argentina,517976
+2025-01-01,2025,1,Brasil,Resto de América,53230
+2025-01-01,2025,1,Bolivia,Países vecinos,63099
+2025-01-01,2025,1,Perú,Países vecinos,35007
+2025-01-01,2025,1,Estados Unidos,Resto de América,31351
+2025-01-01,2025,1,Chilenos residentes en el exterior,Chilenos residentes,22247
+2025-01-01,2025,1,Colombia,Resto de América,14232
+2025-01-01,2025,1,España,Europa,7743
+2025-01-01,2025,1,Alemania,Europa,10279
+2025-01-01,2025,1,Francia,Europa,7880
+2025-01-01,2025,1,Inglaterra,Europa,7350
+2025-01-01,2025,1,Resto del mundo,Resto del mundo,76427
+2025-02-01,2025,2,Argentina,Argentina,393021
+2025-02-01,2025,2,Brasil,Resto de América,23511
+2025-02-01,2025,2,Bolivia,Países vecinos,45395
+2025-02-01,2025,2,Perú,Países vecinos,27852
+2025-02-01,2025,2,Estados Unidos,Resto de América,27664
+2025-02-01,2025,2,Chilenos residentes en el exterior,Chilenos residentes,28107
+2025-02-01,2025,2,Colombia,Resto de América,9713
+2025-02-01,2025,2,España,Europa,6159
+2025-02-01,2025,2,Alemania,Europa,9113
+2025-02-01,2025,2,Francia,Europa,7692
+2025-02-01,2025,2,Inglaterra,Europa,7596
+2025-02-01,2025,2,Resto del mundo,Resto del mundo,63081
+2025-03-01,2025,3,Argentina,Argentina,284115
+2025-03-01,2025,3,Brasil,Resto de América,35189
+2025-03-01,2025,3,Bolivia,Países vecinos,39365
+2025-03-01,2025,3,Perú,Países vecinos,28209
+2025-03-01,2025,3,Estados Unidos,Resto de América,29915
+2025-03-01,2025,3,Chilenos residentes en el exterior,Chilenos residentes,17718
+2025-03-01,2025,3,Colombia,Resto de América,12102
+2025-03-01,2025,3,España,Europa,6969
+2025-03-01,2025,3,Alemania,Europa,7453
+2025-03-01,2025,3,Francia,Europa,6097
+2025-03-01,2025,3,Inglaterra,Europa,5772
+2025-03-01,2025,3,Resto del mundo,Resto del mundo,62585
+2025-04-01,2025,4,Argentina,Argentina,257386
+2025-04-01,2025,4,Brasil,Resto de América,35684
+2025-04-01,2025,4,Bolivia,Países vecinos,35289
+2025-04-01,2025,4,Perú,Países vecinos,25898
+2025-04-01,2025,4,Estados Unidos,Resto de América,14111
+2025-04-01,2025,4,Chilenos residentes en el exterior,Chilenos residentes,14370
+2025-04-01,2025,4,Colombia,Resto de América,11847
+2025-04-01,2025,4,España,Europa,6590
+2025-04-01,2025,4,Alemania,Europa,4579
+2025-04-01,2025,4,Francia,Europa,4888
+2025-04-01,2025,4,Inglaterra,Europa,4675
+2025-04-01,2025,4,Resto del mundo,Resto del mundo,49763
+2025-05-01,2025,5,Argentina,Argentina,191511
+2025-05-01,2025,5,Brasil,Resto de América,36700
+2025-05-01,2025,5,Bolivia,Países vecinos,36461
+2025-05-01,2025,5,Perú,Países vecinos,24592
+2025-05-01,2025,5,Estados Unidos,Resto de América,10766
+2025-05-01,2025,5,Chilenos residentes en el exterior,Chilenos residentes,15974
+2025-05-01,2025,5,Colombia,Resto de América,10161
+2025-05-01,2025,5,España,Europa,4295
+2025-05-01,2025,5,Alemania,Europa,2163
+2025-05-01,2025,5,Francia,Europa,3285
+2025-05-01,2025,5,Inglaterra,Europa,2706
+2025-05-01,2025,5,Resto del mundo,Resto del mundo,34979
+2025-06-01,2025,6,Argentina,Argentina,107649
+2025-06-01,2025,6,Brasil,Resto de América,66896
+2025-06-01,2025,6,Bolivia,Países vecinos,31746
+2025-06-01,2025,6,Perú,Países vecinos,23829
+2025-06-01,2025,6,Estados Unidos,Resto de América,8923
+2025-06-01,2025,6,Chilenos residentes en el exterior,Chilenos residentes,14553
+2025-06-01,2025,6,Colombia,Resto de América,8917
+2025-06-01,2025,6,España,Europa,3633
+2025-06-01,2025,6,Alemania,Europa,1577
+2025-06-01,2025,6,Francia,Europa,2465
+2025-06-01,2025,6,Inglaterra,Europa,1692
+2025-06-01,2025,6,Resto del mundo,Resto del mundo,27315
+2025-07-01,2025,7,Argentina,Argentina,179925
+2025-07-01,2025,7,Brasil,Resto de América,141993
+2025-07-01,2025,7,Bolivia,Países vecinos,48869
+2025-07-01,2025,7,Perú,Países vecinos,32213
+2025-07-01,2025,7,Estados Unidos,Resto de América,12311
+2025-07-01,2025,7,Chilenos residentes en el exterior,Chilenos residentes,16328
+2025-07-01,2025,7,Colombia,Resto de América,10484
+2025-07-01,2025,7,España,Europa,5111
+2025-07-01,2025,7,Alemania,Europa,2133
+2025-07-01,2025,7,Francia,Europa,3416
+2025-07-01,2025,7,Inglaterra,Europa,2303
+2025-07-01,2025,7,Resto del mundo,Resto del mundo,37858
+2025-08-01,2025,8,Argentina,Argentina,145854
+2025-08-01,2025,8,Brasil,Resto de América,105943
+2025-08-01,2025,8,Bolivia,Países vecinos,48034
+2025-08-01,2025,8,Perú,Países vecinos,31523
+2025-08-01,2025,8,Estados Unidos,Resto de América,13347
+2025-08-01,2025,8,Chilenos residentes en el exterior,Chilenos residentes,14319
+2025-08-01,2025,8,Colombia,Resto de América,11780
+2025-08-01,2025,8,España,Europa,5725
+2025-08-01,2025,8,Alemania,Europa,2437
+2025-08-01,2025,8,Francia,Europa,3582
+2025-08-01,2025,8,Inglaterra,Europa,2687
+2025-08-01,2025,8,Resto del mundo,Resto del mundo,43281
+2025-09-01,2025,9,Argentina,Argentina,165291
+2025-09-01,2025,9,Brasil,Resto de América,57257
+2025-09-01,2025,9,Bolivia,Países vecinos,44286
+2025-09-01,2025,9,Perú,Países vecinos,26863
+2025-09-01,2025,9,Estados Unidos,Resto de América,12270
+2025-09-01,2025,9,Chilenos residentes en el exterior,Chilenos residentes,17797
+2025-09-01,2025,9,Colombia,Resto de América,11526
+2025-09-01,2025,9,España,Europa,5966
+2025-09-01,2025,9,Alemania,Europa,3138
+2025-09-01,2025,9,Francia,Europa,3202
+2025-09-01,2025,9,Inglaterra,Europa,2899
+2025-09-01,2025,9,Resto del mundo,Resto del mundo,47543
+2025-10-01,2025,10,Argentina,Argentina,179852
+2025-10-01,2025,10,Brasil,Resto de América,41758
+2025-10-01,2025,10,Bolivia,Países vecinos,53482
+2025-10-01,2025,10,Perú,Países vecinos,31322
+2025-10-01,2025,10,Estados Unidos,Resto de América,18820
+2025-10-01,2025,10,Chilenos residentes en el exterior,Chilenos residentes,15874
+2025-10-01,2025,10,Colombia,Resto de América,13006
+2025-10-01,2025,10,España,Europa,7345
+2025-10-01,2025,10,Alemania,Europa,5873
+2025-10-01,2025,10,Francia,Europa,6294
+2025-10-01,2025,10,Inglaterra,Europa,5300
+2025-10-01,2025,10,Resto del mundo,Resto del mundo,58820
+2025-11-01,2025,11,Argentina,Argentina,193269
+2025-11-01,2025,11,Brasil,Resto de América,36497
+2025-11-01,2025,11,Bolivia,Países vecinos,53381
+2025-11-01,2025,11,Perú,Países vecinos,30077
+2025-11-01,2025,11,Estados Unidos,Resto de América,27283
+2025-11-01,2025,11,Chilenos residentes en el exterior,Chilenos residentes,16898
+2025-11-01,2025,11,Colombia,Resto de América,14556
+2025-11-01,2025,11,España,Europa,10307
+2025-11-01,2025,11,Alemania,Europa,9468
+2025-11-01,2025,11,Francia,Europa,8424
+2025-11-01,2025,11,Inglaterra,Europa,7665
+2025-11-01,2025,11,Resto del mundo,Resto del mundo,78628
+2025-12-01,2025,12,Argentina,Argentina,240592
+2025-12-01,2025,12,Brasil,Resto de América,46991
+2025-12-01,2025,12,Bolivia,Países vecinos,63322
+2025-12-01,2025,12,Perú,Países vecinos,34968
+2025-12-01,2025,12,Estados Unidos,Resto de América,43699
+2025-12-01,2025,12,Chilenos residentes en el exterior,Chilenos residentes,19138
+2025-12-01,2025,12,Colombia,Resto de América,21268
+2025-12-01,2025,12,España,Europa,10978
+2025-12-01,2025,12,Alemania,Europa,10192
+2025-12-01,2025,12,Francia,Europa,8466
+2025-12-01,2025,12,Inglaterra,Europa,6103
+2025-12-01,2025,12,Resto del mundo,Resto del mundo,86075
+2026-01-01,2026,1,Argentina,Argentina,369830
+2026-01-01,2026,1,Brasil,Resto de América,46428
+2026-01-01,2026,1,Bolivia,Países vecinos,61130
+2026-01-01,2026,1,Perú,Países vecinos,35658
+2026-01-01,2026,1,Estados Unidos,Resto de América,36991
+2026-01-01,2026,1,Chilenos residentes en el exterior,Chilenos residentes,21562
+2026-01-01,2026,1,Colombia,Resto de América,15502
+2026-01-01,2026,1,España,Europa,8748
+2026-01-01,2026,1,Alemania,Europa,9944
+2026-01-01,2026,1,Francia,Europa,8371
+2026-01-01,2026,1,Inglaterra,Europa,8112
+2026-01-01,2026,1,Resto del mundo,Resto del mundo,88070
+2026-02-01,2026,2,Argentina,Argentina,239262
+2026-02-01,2026,2,Brasil,Resto de América,26027
+2026-02-01,2026,2,Bolivia,Países vecinos,45500
+2026-02-01,2026,2,Perú,Países vecinos,27816
+2026-02-01,2026,2,Estados Unidos,Resto de América,30796
+2026-02-01,2026,2,Chilenos residentes en el exterior,Chilenos residentes,29103
+2026-02-01,2026,2,Colombia,Resto de América,9497
+2026-02-01,2026,2,España,Europa,6690
+2026-02-01,2026,2,Alemania,Europa,9097
+2026-02-01,2026,2,Francia,Europa,8375
+2026-02-01,2026,2,Inglaterra,Europa,7364
+2026-02-01,2026,2,Resto del mundo,Resto del mundo,68754
+2026-03-01,2026,3,Argentina,Argentina,152573
+2026-03-01,2026,3,Brasil,Resto de América,32697
+2026-03-01,2026,3,Bolivia,Países vecinos,43310
+2026-03-01,2026,3,Perú,Países vecinos,35913
+2026-03-01,2026,3,Estados Unidos,Resto de América,33077
+2026-03-01,2026,3,Chilenos residentes en el exterior,Chilenos residentes,19777
+2026-03-01,2026,3,Colombia,Resto de América,15472
+2026-03-01,2026,3,España,Europa,8961
+2026-03-01,2026,3,Alemania,Europa,9359
+2026-03-01,2026,3,Francia,Europa,7139
+2026-03-01,2026,3,Inglaterra,Europa,7956
+2026-03-01,2026,3,Resto del mundo,Resto del mundo,80468
+2026-04-01,2026,4,Argentina,Argentina,133342
+2026-04-01,2026,4,Brasil,Resto de América,37314
+2026-04-01,2026,4,Bolivia,Países vecinos,34391
+2026-04-01,2026,4,Perú,Países vecinos,27122
+2026-04-01,2026,4,Estados Unidos,Resto de América,15409
+2026-04-01,2026,4,Chilenos residentes en el exterior,Chilenos residentes,14753
+2026-04-01,2026,4,Colombia,Resto de América,11234
+2026-04-01,2026,4,España,Europa,5380
+2026-04-01,2026,4,Alemania,Europa,4140
+2026-04-01,2026,4,Francia,Europa,4743
+2026-04-01,2026,4,Inglaterra,Europa,4356
+2026-04-01,2026,4,Resto del mundo,Resto del mundo,52431
+2026-05-01,2026,5,Argentina,Argentina,108593
+2026-05-01,2026,5,Brasil,Resto de América,34255
+2026-05-01,2026,5,Bolivia,Países vecinos,22098
+2026-05-01,2026,5,Perú,Países vecinos,25789
+2026-05-01,2026,5,Estados Unidos,Resto de América,10649
+2026-05-01,2026,5,Chilenos residentes en el exterior,Chilenos residentes,16303
+2026-05-01,2026,5,Colombia,Resto de América,8916
+2026-05-01,2026,5,España,Europa,4070
+2026-05-01,2026,5,Alemania,Europa,2606
+2026-05-01,2026,5,Francia,Europa,3656
+2026-05-01,2026,5,Inglaterra,Europa,3023
+2026-05-01,2026,5,Resto del mundo,Resto del mundo,37957
+2026-06-01,2026,6,Argentina,Argentina,74391
+2026-06-01,2026,6,Brasil,Resto de América,64797
+2026-06-01,2026,6,Bolivia,Países vecinos,25443
+2026-06-01,2026,6,Perú,Países vecinos,23426
+2026-06-01,2026,6,Estados Unidos,Resto de América,9861
+2026-06-01,2026,6,Chilenos residentes en el exterior,Chilenos residentes,13679
+2026-06-01,2026,6,Colombia,Resto de América,11134
+2026-06-01,2026,6,España,Europa,3635
+2026-06-01,2026,6,Alemania,Europa,1871
+2026-06-01,2026,6,Francia,Europa,2403
+2026-06-01,2026,6,Inglaterra,Europa,2144
+2026-06-01,2026,6,Resto del mundo,Resto del mundo,33080
+2026-07-01,2026,7,Argentina,Argentina,86633
+2026-07-01,2026,7,Brasil,Resto de América,152265
+2026-07-01,2026,7,Bolivia,Países vecinos,44728
+2026-07-01,2026,7,Perú,Países vecinos,33452
+2026-07-01,2026,7,Estados Unidos,Resto de América,11809
+2026-07-01,2026,7,Chilenos residentes en el exterior,Chilenos residentes,16040
+2026-07-01,2026,7,Colombia,Resto de América,10560
+2026-07-01,2026,7,España,Europa,4592
+2026-07-01,2026,7,Alemania,Europa,2272
+2026-07-01,2026,7,Francia,Europa,3663
+2026-07-01,2026,7,Inglaterra,Europa,2383
+2026-07-01,2026,7,Resto del mundo,Resto del mundo,41816

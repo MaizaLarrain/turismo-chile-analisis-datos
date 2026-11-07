@@ -1,0 +1,48 @@
+' Macro: actualiza el libro, verifica los controles y exporta la hoja Resumen a PDF
+Option Explicit
+
+Sub ActualizarYExportarResumen()
+    Dim ws As Worksheet, pt As PivotTable, ruta As String
+    On Error GoTo Fallo
+    Application.ScreenUpdating = False
+
+    ' Actualiza consultas, fórmulas y tablas del libro
+    ThisWorkbook.RefreshAll
+    Application.CalculateUntilAsyncQueriesDone
+    Application.CalculateFull
+
+    ' Actualiza todas las tablas dinámicas de todas las hojas
+    For Each ws In ThisWorkbook.Worksheets
+        For Each pt In ws.PivotTables
+            pt.RefreshTable
+        Next pt
+    Next ws
+
+    ' Control de cuadratura (Resumen!B19): si falla, no se exporta
+    If ThisWorkbook.Worksheets("Resumen").Range("B19").Value <> "Todos coinciden" Then
+        Application.ScreenUpdating = True
+        MsgBox "Los controles no coinciden con los totales oficiales. No se exportó el PDF.", vbExclamation
+        Exit Sub
+    End If
+
+    ruta = ThisWorkbook.Path & Application.PathSeparator & "Resumen_turismo.pdf"
+
+    ' Hoja horizontal y de un ancho de página
+    With ThisWorkbook.Worksheets("Resumen").PageSetup
+        .Orientation = xlLandscape
+        .Zoom = False
+        .FitToPagesWide = 1
+        .FitToPagesTall = False
+    End With
+
+    ThisWorkbook.Worksheets("Resumen").ExportAsFixedFormat Type:=xlTypePDF, Filename:=ruta, _
+        Quality:=xlQualityStandard, OpenAfterPublish:=False
+
+    Application.ScreenUpdating = True
+    MsgBox "Resumen exportado en: " & ruta, vbInformation
+    Exit Sub
+
+Fallo:
+    Application.ScreenUpdating = True
+    MsgBox "La macro se detuvo por un error: " & Err.Description, vbCritical
+End Sub
