@@ -1,6 +1,6 @@
 """Lee la hoja CONSULTA_DESAGREGADA del Excel oficial del SIET: llegadas por región, paso fronterizo, nacionalidad, año y mes (2013-2026)."""
 import pandas as pd, warnings; warnings.filterwarnings("ignore")
-F="/mnt/user-data/uploads/202607-LLEGADAS-DE-TURISTAS-EXTRANJEROS-V20260828-PUBLICACION.xlsx"
+F = "202607-LLEGADAS-DE-TURISTAS-EXTRANJEROS-V20260828-PUBLICACION.xlsx"   # el Excel de Sernatur, en la misma carpeta que este script
 d=pd.read_excel(F,sheet_name="CONSULTA_DESAGREGADA",usecols="A:K",dtype=object)
 d.columns=["region","paso","tipo_paso","nacion","nacion_grupo","continente","zona","anio","mes","llegadas","pp"]
 d=d.dropna(subset=["anio","mes","llegadas"]).copy()

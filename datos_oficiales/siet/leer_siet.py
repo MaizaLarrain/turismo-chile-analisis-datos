@@ -1,6 +1,6 @@
 """Lee el Excel oficial del SIET (Sernatur) 'Cuadros de llegadas de turistas extranjeros' y lo deja en formato largo (una fila por nacionalidad y mes)."""
 import pandas as pd, numpy as np, re, warnings; warnings.filterwarnings("ignore")
-F="/mnt/user-data/uploads/202607-LLEGADAS-DE-TURISTAS-EXTRANJEROS-V20260828-PUBLICACION.xlsx"
+F = "202607-LLEGADAS-DE-TURISTAS-EXTRANJEROS-V20260828-PUBLICACION.xlsx"   # el Excel de Sernatur, en la misma carpeta que este script
 raw=pd.read_excel(F,sheet_name="Cuadro por Nacionalidad",header=None,dtype=object)
 yrs=raw.iloc[1]; mes=raw.iloc[2]
 # columnas: para cada año hay 12 meses + 'Total AAAA'
