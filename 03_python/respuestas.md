@@ -1,0 +1,5 @@
+1. **Peso de Argentina:** 47,6 % de las llegadas en 2025 (39,9 % en 2024 y 32,1 % en 2022). Su máximo desde 2008 fue 51,5 % en 2017. En enero-julio de 2026 vuelve a 39,3 %.
+2. **Crecimiento 2025 y caída 2026:** Argentina aportó el **100,4 %** del aumento de 2025 (768.052 de 765.334 llegadas) y explica el **109,9 %** de la caída de enero-julio 2026 (-766.959 de -698.090; -39,7 % en su flujo).
+3. **Sin Argentina:** el resto del mundo se mantiene en 2025 (-0,1 % en el año completo; +0,7 % en enero-julio) y crece **+4,0 %** en enero-julio 2026, y mejora en 5 de 7 meses. Suben Australia (+83,5 %, desde una base chica), Estados Unidos (+10,0 %) y Perú (+5,9 %).
+4. **Estacionalidad:** Argentina tiene pico en enero (1,91) y valle en junio (0,47). El resto tiene pico en diciembre (1,37), un segundo repunte en julio-agosto (1,1) y valle en mayo (0,70). La correlación entre ambos perfiles es 0,50.
+5. **Presupuesto 2026:** entre **4,88 y 5,10 millones** de llegadas (de -18,7 % a -15,1 % frente a 2025), con un valor central de 5,00 millones si Argentina mantiene el ritmo de enero-julio. Es un ejercicio ilustrativo, no un pronóstico.
